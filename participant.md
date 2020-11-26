@@ -17,4 +17,5 @@
 - 228명 (1명 - 2차 mission)
 - 222명 (6명 - 3차 mission)
 - 219명 (3명 - 4차 mission)
+- 216명 (3명 - 5차 mission)
 
