@@ -12,25 +12,24 @@ Deep Learning Specialization 을 수료하고 3가지 자격증 중 하나의 �
 
 ## 11번가
 
-## Smilegate
-
-## Mesh Korea(Vroong)
-
-## Kakao Mobility
-
-## Hyper Connect
-
-## Voyger X
+## Buzzvil
 
 ## CosMax
 
-## Nota
-
-## Buzzvil
-
 ## Dable
+
+## Hyper Connect
+
+## Kakao Mobility
+
+## Mesh Korea(Vroong)
 
 ## NBT
 
-## 당근마켓
+## Nota
 
+## Smilegate
+
+## Voyger X
+
+## 당근마켓

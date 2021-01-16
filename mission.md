@@ -1,5 +1,7 @@
 # Mission
 
+![certificate](images/coursera_deep_learning.jpeg)  
+
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  
 수강료 지원  
 
