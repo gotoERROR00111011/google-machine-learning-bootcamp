@@ -1,11 +1,12 @@
 # Mission
 
+
 ![certificate](images/coursera_deep_learning.jpeg)  
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  
-수강료 지원  
+- 2020-10-16 ~ 2020-12-10  
+- slack 를 통해 서로 질문, 답변을 하며 스터디 방식으로 진행  
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) 수강료 지원  
 
-slack 를 통해 서로 질문, 답변을 하며 스터디 방식으로 진행  
 
 ## 마감 일정
 - mission1 : 2020-10-16 ~ 2020-10-22 : 1-1 ~ 1-2  

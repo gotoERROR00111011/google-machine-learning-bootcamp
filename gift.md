@@ -10,8 +10,10 @@
 
 ## Coursera
 ![tshirt v1](images/tshirt_v1.jpg)  
+![tshirt v2](images/tshirt_v2.jpg)  
 ![tumbler front](images/tumbler1.jpg)  
 ![tumbler back](images/tumbler2.jpg)  
 
 ## Certificate
-
+![tshirt v1](images/fleece.jpg)  
+![tshirt v1](images/voyagerx.jpg)  
